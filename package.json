@@ -1,5 +1,5 @@
 {
-    "name": "@yaoiisukaloli/baileys",
+    "name": "@shennmine/baileys",
     "version": "2.1.1",
     "description": "WhatsApp API Modification By K",
     "keywords": [
@@ -12,9 +12,9 @@
         "botwa",
         "kyuurzy"
     ],
-    "homepage": "",
+    "homepage": "https://www.npmjs.com/package/@shennmine/baileys",
     "repository": {
-        "url": ""
+        "url": "https://www.npmjs.com/package/@shennmine/baileys"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
